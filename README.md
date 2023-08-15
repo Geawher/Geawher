@@ -8,4 +8,4 @@ I am motivated, creative and active data science student, eager to enrich my kno
 - 👀 I’m currently lengineerooking for new opportunities in AI and Data Science. I also want to collaborate on open source projects  
 - 📫 How to reach me:  
 - Email: jawher.jabri@dauphine.eu 
-- Linkedin: [https://www.linkedin.com/in/jawher-jabri](https://www.linkedin.com/in/jawher-jabri-b640b0176/)
+- Linkedin: [/jawher-jabri](https://www.linkedin.com/in/jawher-jabri-b640b0176/)
