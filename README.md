@@ -1,11 +1,14 @@
-# Welcome to my profile
-Hi! My name is Jawher Jabri. 
-I am motivated, creative and active data science student, eager to enrich my knowledge in this field and enjoy building models that translate data points into business insights. 
-- 👨‍💻 I'm AI Research Engineer at InstaDeep Ltd.
-- 🎓 I'm Big Data and Artificial Intelligence masters graduate from Paris Dauphine University.  
-- 💻 I'm also a Business computing graduate from the Higher Institute of Management Tunis (ISG) in Tunisia.  
-- 🧑‍ I'm passionate and creative with a thirst for knowledge and a hands-on approach to problem-solving
-- 👀 I’m currently looking for new opportunities in AI and Data Science. I also want to collaborate on open source projects  
-- 📫 How to reach me:  
-- Email: jawherjabri2000@gmail.com
-- Linkedin: [/jawher-jabri](https://www.linkedin.com/in/jawher-jabri-b640b0176/)
+# Hi, I'm Jawher Jabri 👋
+**AI Research Engineer @ InstaDeep** specializing in Deep Reinforcement Learning for complex industrial optimization and scheduling.
+
+### 🔭 Current Focus
+*   **Industrial RL:** Designing custom environments, rewards, and PPO agents in JAX to solve combinatorial challenges like train scheduling and PCB routing.
+*   **Safe LLM Agents:** Building frameworks to ensure LLMs safely execute critical tasks on local machines, alongside rigorous model benchmarking.
+*   **Production AI:** Deploying scalable MCP servers on Ray Serve and building high-accuracy LLM data extraction pipelines.
+
+### 🛠 Tech Stack
+*   **Core:** Python, JAX, PyTorch, Ray, RLlib, Gymnasium.
+*   **Specialties:** Deep RL (PPO, DQN, Actor-Critic), RAG, RLHF, GRPO, Distributed Training.
+
+### 📫 Connect
+[LinkedIn](https://linkedin.com/in/jawher-jabri) | jabri.jawher@outlook.com
